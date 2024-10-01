@@ -1,0 +1,8 @@
+# IMPUTS
+
+3	# Number of rnd matrices
+0	# mean of gaussian for random values in matrix
+100	# beta for calculating sigma
+700	# Matrix dimensions
+
+
